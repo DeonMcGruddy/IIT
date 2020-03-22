@@ -30,7 +30,15 @@ Here is a link to a job posting Valve has put up for an [Software Engineer for V
 Here is a snapshot incase the link goes down. 
 ![Valve Advertisment](https://i.imgur.com/T4S8ZXS.png)
 
+The job involves exploring, advancing and implementing VR technology. Working with a team with a wide array of skills to improve and advance the rapidly developing VR landscape. 
 
+A job like this sparks my passion for both working as a team and for pursuing new technologies. 
+
+In order to pursue such a job not only will I need experience in low level languages such as C++ but also in depth experience with hardware design, 3d rendering and many other skills.
+
+I currently have completed classes in C++ prior to RMIT and have limited hardware coding with arduino controllers.
+
+I will need to build and extensive portfolio in programming for low level languages. As well as experience in game design and e
 
 ### Key Skills
 
