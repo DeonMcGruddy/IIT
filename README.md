@@ -38,10 +38,14 @@ In order to pursue such a job not only will I need experience in low level langu
 
 I currently have completed classes in C++ prior to RMIT and have limited hardware coding with arduino controllers.
 
-I will need to build and extensive portfolio in programming for low level languages. As well as experience in game design and e
-
-### Key Skills
+I will need to build and extensive portfolio in programming for low level languages. As well as experience in game design and experience with coding for VR technologies. RMIT offers courses in these subjects and studying them during my time here would be a great step forward.
 
 ### Personality Profile
+
+Here is my personality according to a Myer-Briggs test: 
+![Myer-Briggs](https://i.imgur.com/I2i2Y1a.png)
+
+The website I used was [16 Personalities](https://www.16personalities.com/) and you can find the full results of my test [here](https://www.16personalities.com/profiles/957f368a66407).
+
 
 ### Project Idea
