@@ -60,7 +60,9 @@ This indicates that I learn best with visual input. When understanding topics or
 
 #### Big Five Personality Test
 
-This is the result of my ![Big Five test](https://i.imgur.com/JTslKoA.png)
+This is the result of my Big Five Test:
+
+![Big Five test](https://i.imgur.com/JTslKoA.png)
 
 The website I used was [Truity.com](https://www.truity.com)
 
