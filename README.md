@@ -48,4 +48,3 @@ Here is my personality according to a Myer-Briggs test:
 The website I used was [16 Personalities](https://www.16personalities.com/) and you can find the full results of my test [here](https://www.16personalities.com/profiles/957f368a66407).
 
 
-### Project Idea
