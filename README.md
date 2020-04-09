@@ -42,9 +42,27 @@ I will need to build and extensive portfolio in programming for low level langua
 
 ### Personality Profile
 
+#### Myer-Briggs
 Here is my personality according to a Myer-Briggs test: 
 ![Myer-Briggs](https://i.imgur.com/I2i2Y1a.png)
 
 The website I used was [16 Personalities](https://www.16personalities.com/) and you can find the full results of my test [here](https://www.16personalities.com/profiles/957f368a66407).
 
+The results of this test show that I am best suited as a diplomat. There to lubricate the gears for a team so that everything runds smoothly. However I should take care to put effort into the work I do not just helping others.
+
+#### Learning Style
+Here is how i best learn: 
+![Learning Style](https://i.imgur.com/UNZCVa4.png)
+
+The website I used was [Education Planner](http://www.educationplanner.org/students/self-assessments/learning-styles.shtml).
+
+This indicates that I learn best with visual input. When understanding topics or presenting them using diagrams and images is key. Keeping a log or spreadsheet of tasks to be completed, who needs to complete it and when would do any group with myself in it wonders.
+
+#### Big Five Personality Test
+
+This is the result of my ![Big Five test](https://i.imgur.com/JTslKoA.png)
+
+The website I used was [Truity.com](https://www.truity.com)
+
+This would indicate that I am high in agreeableness and openness. Interacting with people I am likely to be swayed by new ideas or opinions. When working on a project I should make sure to stick with whats feasible and stick within constraints.
 
